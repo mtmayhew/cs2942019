@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package edu.poly.cs249;
+
+/**
+ * @author mtmay
+ *
+ */
+public class MediaServer {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

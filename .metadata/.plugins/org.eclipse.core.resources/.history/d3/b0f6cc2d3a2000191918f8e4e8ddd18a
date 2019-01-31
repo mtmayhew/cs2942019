@@ -1,0 +1,19 @@
+/**
+ * 
+ */
+package edu.poly.cs249;
+
+/**
+ * @author mtmay
+ *
+ */
+public class Director {
+
+	/**
+	 * 
+	 */
+	public Director() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

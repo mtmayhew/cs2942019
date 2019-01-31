@@ -1,0 +1,52 @@
+/**
+ * 
+ */
+package edu.poly.cs249;
+
+/**
+ * @author mtmay
+ *
+ */
+public class MediaServer {
+	TvShow tvShows[];
+	Movie movies[];
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		// TODO Auto-generated method stub
+
+	}
+	/**
+	 * Add @param show to tvShow array 
+	 **/
+	public void addTvShow(TvShow show) {
+		
+	}
+	/**
+	 * Add @param movie to movies array
+	 * 
+	 */
+	
+	public void addMovie(Movie movie) {
+		
+	}
+	/**
+	 * Creating the tvShow object to be added to the tvShow array 
+	 * @return
+	 */
+	public TvShow createTvShow() {
+		TvShow tv = new TvShow();
+		
+		
+		
+		
+		return tv;
+		
+	}
+	
+	
+
+}
