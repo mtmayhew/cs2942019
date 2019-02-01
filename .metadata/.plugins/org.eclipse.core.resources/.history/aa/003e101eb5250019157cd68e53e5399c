@@ -16,7 +16,6 @@ public class MediaServer {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Hello This is a test");
-		System.out.println("Hello This is a test");
 		// TODO Auto-generated method stub
 
 	}
